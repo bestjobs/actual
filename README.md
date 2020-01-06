@@ -1,3 +1,3 @@
 # actual
 
-actual.bestjobs.bg
+https://actual.bestjobs.bg/
